@@ -9,7 +9,5 @@
 [Rule]
 DOMAIN,tv.micu.hk
 DOMAIN,hka-emby.aliz.work
-DOMAIN-SUFFIX,supercell.com
-DOMAIN-SUFFIX,clashofclans.com
-DOMAIN-SUFFIX,micu.hk
-DOMAIN-SUFFIX,aliz.work
+DOMAIN,supercell.com
+DOMAIN,clashofclans.com
