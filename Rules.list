@@ -7,9 +7,9 @@
 # GEOIP：匹配地理位置
 # USER-AGENT：匹配用户代理
 [Rule]
-DOMAIN-SUFFIX,supercell.com,DIRECT
-DOMAIN-SUFFIX,clashofclans.com,DIRECT
-DOMAIN,tv.micu.hk,DIRECT
-DOMAIN-SUFFIX,micu.hk,DIRECT
-DOMAIN,hka-emby.aliz.work,DIRECT
-DOMAIN-SUFFIX,aliz.work,DIRECT
+DOMAIN,tv.micu.hk
+DOMAIN,hka-emby.aliz.work
+DOMAIN-SUFFIX,supercell.com
+DOMAIN-SUFFIX,clashofclans.com
+DOMAIN-SUFFIX,micu.hk
+DOMAIN-SUFFIX,aliz.work
