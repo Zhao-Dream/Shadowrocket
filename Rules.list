@@ -1,7 +1,7 @@
 # NAME: Main
 # UPDATED: 2025-08-23
 [Rule]
-DOMAIN,tv.micu.hk # EMBY:MIOCU
+DOMAIN,tv.micu.hk # EMBY:MICU
 DOMAIN,hka-emby.aliz.work # EMBY:hka
 DOMAIN,supercell.com # 部落冲突
 DOMAIN,clashofclans.com # 部落冲突
