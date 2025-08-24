@@ -8,8 +8,5 @@
 # USER-AGENT：匹配用户代理
 [Rule]
 DOMAIN,tv.micu.hk
-DOMAIN,hka-emby.aliz.work
 DOMAIN-SUFFIX,supercell.com
 DOMAIN-SUFFIX,clashofclans.com
-DOMAIN-SUFFIX,micu.hk
-DOMAIN-SUFFIX,aliz.work
